@@ -1,0 +1,13 @@
+scenario,trials,detected_chain_only,rate_chain_only,detected_with_anchor,rate_with_anchor
+CONTROL untouched,100,0,0.0%,0,0.0%
+T1 modify event data,100,100,100.0%,100,100.0%
+T2 modify timestamp,100,100,100.0%,100,100.0%
+T3 modify stored hash,100,100,100.0%,100,100.0%
+T4 modify previous_hash,100,100,100.0%,100,100.0%
+T5 delete middle block,100,100,100.0%,100,100.0%
+T6 insert forged block,100,100,100.0%,100,100.0%
+T7 swap adjacent blocks,100,100,100.0%,100,100.0%
+T8 modify newest block,100,100,100.0%,100,100.0%
+L1 newest block edited + hash recomputed,100,0,0.0%,100,100.0%
+L2 full-chain rewrite (all later hashes recomputed),100,0,0.0%,100,100.0%
+L3 newest blocks truncated,100,0,0.0%,100,100.0%

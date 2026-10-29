@@ -1,0 +1,5 @@
+n_events,baseline_latency_ms,blockchain_latency_ms,latency_overhead_pct,baseline_throughput_eps,blockchain_throughput_eps,throughput_change_pct,history_sql_ms_baseline,history_sql_ms_blockchain,history_ledger_scan_ms,baseline_db_kb,blockchain_db_kb,storage_overhead_pct,ledger_verify_ms
+100,1.2669,2.3278,83.7506,796.0789,431.5375,-45.7921,0.0186,0.0173,0.0057,52.0,96.0,84.6154,0.6032
+500,1.1896,2.3146,94.5636,853.9563,432.967,-49.2987,0.0185,0.0155,0.0227,116.0,320.0,175.8621,2.6935
+1000,1.2947,2.4015,85.4898,778.3383,418.0166,-46.2937,0.0166,0.0194,0.0457,188.0,592.0,214.8936,6.4807
+5000,1.3386,2.4866,85.7547,750.1706,402.0582,-46.4044,0.0161,0.0563,0.3045,796.0,2800.0,251.7588,32.4459

@@ -1,0 +1,12 @@
+experiment,tests,passed,failed,pass_rate
+E1 Product registration,975,975,0,100.0%
+E2 Traceability,200,200,0,100.0%
+E3 Access control [blockchain],280,280,0,100.0%
+E3 Access control [baseline],280,280,0,100.0%
+E4 Tamper detection (ledger),1500,1500,0,100.0%
+E5 Duplicate detection,240,240,0,100.0%
+E6 Missing custody events,330,330,0,100.0%
+E7 Data mismatch,320,320,0,100.0%
+S11 Tamper comparison (database level),100,100,0,100.0%
+S10 Dataset evaluation,960,960,0,100.0%
+E8 Performance,40,40,0,100.0%

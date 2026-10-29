@@ -1,0 +1,11 @@
+participant_id,role,authorized
+Manufacturer_A,Manufacturer,1
+Manufacturer_B,Manufacturer,1
+Distributor_A,Distributor,1
+Distributor_B,Distributor,1
+Wholesaler_A,Wholesaler,1
+Wholesaler_B,Wholesaler,1
+Pharmacy_A,Pharmacy,1
+Pharmacy_B,Pharmacy,1
+Pharmacy_C,Pharmacy,1
+Rogue_Actor,Unknown,0

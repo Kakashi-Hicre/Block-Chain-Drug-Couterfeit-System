@@ -1,0 +1,1201 @@
+group,trial,block_index,detected_chain,detected_with_anchor
+CONTROL untouched,0,,0,0
+CONTROL untouched,1,,0,0
+CONTROL untouched,2,,0,0
+CONTROL untouched,3,,0,0
+CONTROL untouched,4,,0,0
+CONTROL untouched,5,,0,0
+CONTROL untouched,6,,0,0
+CONTROL untouched,7,,0,0
+CONTROL untouched,8,,0,0
+CONTROL untouched,9,,0,0
+CONTROL untouched,10,,0,0
+CONTROL untouched,11,,0,0
+CONTROL untouched,12,,0,0
+CONTROL untouched,13,,0,0
+CONTROL untouched,14,,0,0
+CONTROL untouched,15,,0,0
+CONTROL untouched,16,,0,0
+CONTROL untouched,17,,0,0
+CONTROL untouched,18,,0,0
+CONTROL untouched,19,,0,0
+CONTROL untouched,20,,0,0
+CONTROL untouched,21,,0,0
+CONTROL untouched,22,,0,0
+CONTROL untouched,23,,0,0
+CONTROL untouched,24,,0,0
+CONTROL untouched,25,,0,0
+CONTROL untouched,26,,0,0
+CONTROL untouched,27,,0,0
+CONTROL untouched,28,,0,0
+CONTROL untouched,29,,0,0
+CONTROL untouched,30,,0,0
+CONTROL untouched,31,,0,0
+CONTROL untouched,32,,0,0
+CONTROL untouched,33,,0,0
+CONTROL untouched,34,,0,0
+CONTROL untouched,35,,0,0
+CONTROL untouched,36,,0,0
+CONTROL untouched,37,,0,0
+CONTROL untouched,38,,0,0
+CONTROL untouched,39,,0,0
+CONTROL untouched,40,,0,0
+CONTROL untouched,41,,0,0
+CONTROL untouched,42,,0,0
+CONTROL untouched,43,,0,0
+CONTROL untouched,44,,0,0
+CONTROL untouched,45,,0,0
+CONTROL untouched,46,,0,0
+CONTROL untouched,47,,0,0
+CONTROL untouched,48,,0,0
+CONTROL untouched,49,,0,0
+CONTROL untouched,50,,0,0
+CONTROL untouched,51,,0,0
+CONTROL untouched,52,,0,0
+CONTROL untouched,53,,0,0
+CONTROL untouched,54,,0,0
+CONTROL untouched,55,,0,0
+CONTROL untouched,56,,0,0
+CONTROL untouched,57,,0,0
+CONTROL untouched,58,,0,0
+CONTROL untouched,59,,0,0
+CONTROL untouched,60,,0,0
+CONTROL untouched,61,,0,0
+CONTROL untouched,62,,0,0
+CONTROL untouched,63,,0,0
+CONTROL untouched,64,,0,0
+CONTROL untouched,65,,0,0
+CONTROL untouched,66,,0,0
+CONTROL untouched,67,,0,0
+CONTROL untouched,68,,0,0
+CONTROL untouched,69,,0,0
+CONTROL untouched,70,,0,0
+CONTROL untouched,71,,0,0
+CONTROL untouched,72,,0,0
+CONTROL untouched,73,,0,0
+CONTROL untouched,74,,0,0
+CONTROL untouched,75,,0,0
+CONTROL untouched,76,,0,0
+CONTROL untouched,77,,0,0
+CONTROL untouched,78,,0,0
+CONTROL untouched,79,,0,0
+CONTROL untouched,80,,0,0
+CONTROL untouched,81,,0,0
+CONTROL untouched,82,,0,0
+CONTROL untouched,83,,0,0
+CONTROL untouched,84,,0,0
+CONTROL untouched,85,,0,0
+CONTROL untouched,86,,0,0
+CONTROL untouched,87,,0,0
+CONTROL untouched,88,,0,0
+CONTROL untouched,89,,0,0
+CONTROL untouched,90,,0,0
+CONTROL untouched,91,,0,0
+CONTROL untouched,92,,0,0
+CONTROL untouched,93,,0,0
+CONTROL untouched,94,,0,0
+CONTROL untouched,95,,0,0
+CONTROL untouched,96,,0,0
+CONTROL untouched,97,,0,0
+CONTROL untouched,98,,0,0
+CONTROL untouched,99,,0,0
+T1 modify event data,0,488,1,1
+T1 modify event data,1,1309,1,1
+T1 modify event data,2,2059,1,1
+T1 modify event data,3,2097,1,1
+T1 modify event data,4,2651,1,1
+T1 modify event data,5,421,1,1
+T1 modify event data,6,915,1,1
+T1 modify event data,7,2462,1,1
+T1 modify event data,8,2546,1,1
+T1 modify event data,9,2280,1,1
+T1 modify event data,10,1723,1,1
+T1 modify event data,11,2346,1,1
+T1 modify event data,12,2244,1,1
+T1 modify event data,13,2011,1,1
+T1 modify event data,14,2403,1,1
+T1 modify event data,15,1807,1,1
+T1 modify event data,16,983,1,1
+T1 modify event data,17,11,1,1
+T1 modify event data,18,2516,1,1
+T1 modify event data,19,331,1,1
+T1 modify event data,20,454,1,1
+T1 modify event data,21,1177,1,1
+T1 modify event data,22,402,1,1
+T1 modify event data,23,1842,1,1
+T1 modify event data,24,48,1,1
+T1 modify event data,25,2009,1,1
+T1 modify event data,26,2783,1,1
+T1 modify event data,27,1288,1,1
+T1 modify event data,28,862,1,1
+T1 modify event data,29,1628,1,1
+T1 modify event data,30,1031,1,1
+T1 modify event data,31,1425,1,1
+T1 modify event data,32,1461,1,1
+T1 modify event data,33,1542,1,1
+T1 modify event data,34,2104,1,1
+T1 modify event data,35,2613,1,1
+T1 modify event data,36,313,1,1
+T1 modify event data,37,1395,1,1
+T1 modify event data,38,368,1,1
+T1 modify event data,39,2284,1,1
+T1 modify event data,40,2204,1,1
+T1 modify event data,41,1197,1,1
+T1 modify event data,42,1179,1,1
+T1 modify event data,43,1874,1,1
+T1 modify event data,44,578,1,1
+T1 modify event data,45,2642,1,1
+T1 modify event data,46,2366,1,1
+T1 modify event data,47,1266,1,1
+T1 modify event data,48,102,1,1
+T1 modify event data,49,1511,1,1
+T1 modify event data,50,1490,1,1
+T1 modify event data,51,1889,1,1
+T1 modify event data,52,1730,1,1
+T1 modify event data,53,372,1,1
+T1 modify event data,54,1634,1,1
+T1 modify event data,55,2400,1,1
+T1 modify event data,56,2272,1,1
+T1 modify event data,57,2042,1,1
+T1 modify event data,58,477,1,1
+T1 modify event data,59,1743,1,1
+T1 modify event data,60,2075,1,1
+T1 modify event data,61,2459,1,1
+T1 modify event data,62,2012,1,1
+T1 modify event data,63,1631,1,1
+T1 modify event data,64,2149,1,1
+T1 modify event data,65,1060,1,1
+T1 modify event data,66,1721,1,1
+T1 modify event data,67,2311,1,1
+T1 modify event data,68,1963,1,1
+T1 modify event data,69,2102,1,1
+T1 modify event data,70,2122,1,1
+T1 modify event data,71,104,1,1
+T1 modify event data,72,2358,1,1
+T1 modify event data,73,920,1,1
+T1 modify event data,74,529,1,1
+T1 modify event data,75,201,1,1
+T1 modify event data,76,2144,1,1
+T1 modify event data,77,2747,1,1
+T1 modify event data,78,421,1,1
+T1 modify event data,79,2549,1,1
+T1 modify event data,80,1759,1,1
+T1 modify event data,81,1926,1,1
+T1 modify event data,82,584,1,1
+T1 modify event data,83,1975,1,1
+T1 modify event data,84,938,1,1
+T1 modify event data,85,500,1,1
+T1 modify event data,86,2567,1,1
+T1 modify event data,87,1872,1,1
+T1 modify event data,88,2762,1,1
+T1 modify event data,89,1923,1,1
+T1 modify event data,90,2235,1,1
+T1 modify event data,91,1029,1,1
+T1 modify event data,92,2293,1,1
+T1 modify event data,93,1647,1,1
+T1 modify event data,94,2744,1,1
+T1 modify event data,95,1261,1,1
+T1 modify event data,96,2246,1,1
+T1 modify event data,97,2650,1,1
+T1 modify event data,98,2056,1,1
+T1 modify event data,99,1962,1,1
+T2 modify timestamp,0,1647,1,1
+T2 modify timestamp,1,1774,1,1
+T2 modify timestamp,2,830,1,1
+T2 modify timestamp,3,1206,1,1
+T2 modify timestamp,4,1102,1,1
+T2 modify timestamp,5,38,1,1
+T2 modify timestamp,6,136,1,1
+T2 modify timestamp,7,614,1,1
+T2 modify timestamp,8,2686,1,1
+T2 modify timestamp,9,2447,1,1
+T2 modify timestamp,10,1877,1,1
+T2 modify timestamp,11,2142,1,1
+T2 modify timestamp,12,2006,1,1
+T2 modify timestamp,13,1475,1,1
+T2 modify timestamp,14,819,1,1
+T2 modify timestamp,15,1066,1,1
+T2 modify timestamp,16,1989,1,1
+T2 modify timestamp,17,1912,1,1
+T2 modify timestamp,18,2095,1,1
+T2 modify timestamp,19,2037,1,1
+T2 modify timestamp,20,1779,1,1
+T2 modify timestamp,21,2285,1,1
+T2 modify timestamp,22,2720,1,1
+T2 modify timestamp,23,138,1,1
+T2 modify timestamp,24,1189,1,1
+T2 modify timestamp,25,1298,1,1
+T2 modify timestamp,26,1875,1,1
+T2 modify timestamp,27,403,1,1
+T2 modify timestamp,28,1796,1,1
+T2 modify timestamp,29,2111,1,1
+T2 modify timestamp,30,1061,1,1
+T2 modify timestamp,31,1856,1,1
+T2 modify timestamp,32,750,1,1
+T2 modify timestamp,33,1744,1,1
+T2 modify timestamp,34,1963,1,1
+T2 modify timestamp,35,264,1,1
+T2 modify timestamp,36,2657,1,1
+T2 modify timestamp,37,1092,1,1
+T2 modify timestamp,38,2042,1,1
+T2 modify timestamp,39,1517,1,1
+T2 modify timestamp,40,396,1,1
+T2 modify timestamp,41,798,1,1
+T2 modify timestamp,42,1685,1,1
+T2 modify timestamp,43,600,1,1
+T2 modify timestamp,44,1841,1,1
+T2 modify timestamp,45,58,1,1
+T2 modify timestamp,46,378,1,1
+T2 modify timestamp,47,1,1,1
+T2 modify timestamp,48,1849,1,1
+T2 modify timestamp,49,2379,1,1
+T2 modify timestamp,50,2239,1,1
+T2 modify timestamp,51,341,1,1
+T2 modify timestamp,52,2500,1,1
+T2 modify timestamp,53,815,1,1
+T2 modify timestamp,54,1016,1,1
+T2 modify timestamp,55,495,1,1
+T2 modify timestamp,56,2544,1,1
+T2 modify timestamp,57,183,1,1
+T2 modify timestamp,58,2239,1,1
+T2 modify timestamp,59,1100,1,1
+T2 modify timestamp,60,2739,1,1
+T2 modify timestamp,61,2603,1,1
+T2 modify timestamp,62,1464,1,1
+T2 modify timestamp,63,634,1,1
+T2 modify timestamp,64,22,1,1
+T2 modify timestamp,65,1284,1,1
+T2 modify timestamp,66,2723,1,1
+T2 modify timestamp,67,2389,1,1
+T2 modify timestamp,68,2353,1,1
+T2 modify timestamp,69,2016,1,1
+T2 modify timestamp,70,553,1,1
+T2 modify timestamp,71,2236,1,1
+T2 modify timestamp,72,914,1,1
+T2 modify timestamp,73,1938,1,1
+T2 modify timestamp,74,2409,1,1
+T2 modify timestamp,75,538,1,1
+T2 modify timestamp,76,2450,1,1
+T2 modify timestamp,77,2068,1,1
+T2 modify timestamp,78,1191,1,1
+T2 modify timestamp,79,346,1,1
+T2 modify timestamp,80,1712,1,1
+T2 modify timestamp,81,2739,1,1
+T2 modify timestamp,82,656,1,1
+T2 modify timestamp,83,555,1,1
+T2 modify timestamp,84,2401,1,1
+T2 modify timestamp,85,1254,1,1
+T2 modify timestamp,86,2080,1,1
+T2 modify timestamp,87,1688,1,1
+T2 modify timestamp,88,1600,1,1
+T2 modify timestamp,89,609,1,1
+T2 modify timestamp,90,2131,1,1
+T2 modify timestamp,91,806,1,1
+T2 modify timestamp,92,1541,1,1
+T2 modify timestamp,93,58,1,1
+T2 modify timestamp,94,435,1,1
+T2 modify timestamp,95,1595,1,1
+T2 modify timestamp,96,301,1,1
+T2 modify timestamp,97,211,1,1
+T2 modify timestamp,98,1422,1,1
+T2 modify timestamp,99,2648,1,1
+T3 modify stored hash,0,1448,1,1
+T3 modify stored hash,1,106,1,1
+T3 modify stored hash,2,105,1,1
+T3 modify stored hash,3,2091,1,1
+T3 modify stored hash,4,1950,1,1
+T3 modify stored hash,5,1343,1,1
+T3 modify stored hash,6,1244,1,1
+T3 modify stored hash,7,1844,1,1
+T3 modify stored hash,8,1336,1,1
+T3 modify stored hash,9,498,1,1
+T3 modify stored hash,10,2039,1,1
+T3 modify stored hash,11,1912,1,1
+T3 modify stored hash,12,2342,1,1
+T3 modify stored hash,13,2534,1,1
+T3 modify stored hash,14,700,1,1
+T3 modify stored hash,15,631,1,1
+T3 modify stored hash,16,2422,1,1
+T3 modify stored hash,17,2129,1,1
+T3 modify stored hash,18,848,1,1
+T3 modify stored hash,19,1777,1,1
+T3 modify stored hash,20,2554,1,1
+T3 modify stored hash,21,1378,1,1
+T3 modify stored hash,22,1880,1,1
+T3 modify stored hash,23,2451,1,1
+T3 modify stored hash,24,956,1,1
+T3 modify stored hash,25,2780,1,1
+T3 modify stored hash,26,285,1,1
+T3 modify stored hash,27,2242,1,1
+T3 modify stored hash,28,1635,1,1
+T3 modify stored hash,29,140,1,1
+T3 modify stored hash,30,801,1,1
+T3 modify stored hash,31,2652,1,1
+T3 modify stored hash,32,711,1,1
+T3 modify stored hash,33,186,1,1
+T3 modify stored hash,34,2656,1,1
+T3 modify stored hash,35,2232,1,1
+T3 modify stored hash,36,198,1,1
+T3 modify stored hash,37,1851,1,1
+T3 modify stored hash,38,2625,1,1
+T3 modify stored hash,39,773,1,1
+T3 modify stored hash,40,1982,1,1
+T3 modify stored hash,41,2780,1,1
+T3 modify stored hash,42,84,1,1
+T3 modify stored hash,43,529,1,1
+T3 modify stored hash,44,2645,1,1
+T3 modify stored hash,45,2171,1,1
+T3 modify stored hash,46,896,1,1
+T3 modify stored hash,47,2118,1,1
+T3 modify stored hash,48,565,1,1
+T3 modify stored hash,49,657,1,1
+T3 modify stored hash,50,2709,1,1
+T3 modify stored hash,51,762,1,1
+T3 modify stored hash,52,1598,1,1
+T3 modify stored hash,53,1118,1,1
+T3 modify stored hash,54,1743,1,1
+T3 modify stored hash,55,2184,1,1
+T3 modify stored hash,56,1697,1,1
+T3 modify stored hash,57,323,1,1
+T3 modify stored hash,58,1570,1,1
+T3 modify stored hash,59,1249,1,1
+T3 modify stored hash,60,767,1,1
+T3 modify stored hash,61,1410,1,1
+T3 modify stored hash,62,716,1,1
+T3 modify stored hash,63,1080,1,1
+T3 modify stored hash,64,1901,1,1
+T3 modify stored hash,65,2039,1,1
+T3 modify stored hash,66,1703,1,1
+T3 modify stored hash,67,1179,1,1
+T3 modify stored hash,68,1916,1,1
+T3 modify stored hash,69,725,1,1
+T3 modify stored hash,70,1335,1,1
+T3 modify stored hash,71,2128,1,1
+T3 modify stored hash,72,1975,1,1
+T3 modify stored hash,73,1822,1,1
+T3 modify stored hash,74,492,1,1
+T3 modify stored hash,75,2160,1,1
+T3 modify stored hash,76,2150,1,1
+T3 modify stored hash,77,1122,1,1
+T3 modify stored hash,78,388,1,1
+T3 modify stored hash,79,878,1,1
+T3 modify stored hash,80,948,1,1
+T3 modify stored hash,81,21,1,1
+T3 modify stored hash,82,382,1,1
+T3 modify stored hash,83,1861,1,1
+T3 modify stored hash,84,2645,1,1
+T3 modify stored hash,85,1354,1,1
+T3 modify stored hash,86,1672,1,1
+T3 modify stored hash,87,2233,1,1
+T3 modify stored hash,88,2746,1,1
+T3 modify stored hash,89,748,1,1
+T3 modify stored hash,90,112,1,1
+T3 modify stored hash,91,1442,1,1
+T3 modify stored hash,92,643,1,1
+T3 modify stored hash,93,1441,1,1
+T3 modify stored hash,94,2302,1,1
+T3 modify stored hash,95,2345,1,1
+T3 modify stored hash,96,2206,1,1
+T3 modify stored hash,97,887,1,1
+T3 modify stored hash,98,450,1,1
+T3 modify stored hash,99,2543,1,1
+T4 modify previous_hash,0,1149,1,1
+T4 modify previous_hash,1,2277,1,1
+T4 modify previous_hash,2,2327,1,1
+T4 modify previous_hash,3,879,1,1
+T4 modify previous_hash,4,2335,1,1
+T4 modify previous_hash,5,1208,1,1
+T4 modify previous_hash,6,2306,1,1
+T4 modify previous_hash,7,1099,1,1
+T4 modify previous_hash,8,2746,1,1
+T4 modify previous_hash,9,2277,1,1
+T4 modify previous_hash,10,544,1,1
+T4 modify previous_hash,11,416,1,1
+T4 modify previous_hash,12,1081,1,1
+T4 modify previous_hash,13,395,1,1
+T4 modify previous_hash,14,1787,1,1
+T4 modify previous_hash,15,702,1,1
+T4 modify previous_hash,16,435,1,1
+T4 modify previous_hash,17,248,1,1
+T4 modify previous_hash,18,1460,1,1
+T4 modify previous_hash,19,760,1,1
+T4 modify previous_hash,20,2646,1,1
+T4 modify previous_hash,21,2581,1,1
+T4 modify previous_hash,22,436,1,1
+T4 modify previous_hash,23,2076,1,1
+T4 modify previous_hash,24,1285,1,1
+T4 modify previous_hash,25,1134,1,1
+T4 modify previous_hash,26,2409,1,1
+T4 modify previous_hash,27,262,1,1
+T4 modify previous_hash,28,1193,1,1
+T4 modify previous_hash,29,1289,1,1
+T4 modify previous_hash,30,662,1,1
+T4 modify previous_hash,31,1069,1,1
+T4 modify previous_hash,32,1050,1,1
+T4 modify previous_hash,33,258,1,1
+T4 modify previous_hash,34,57,1,1
+T4 modify previous_hash,35,1687,1,1
+T4 modify previous_hash,36,1053,1,1
+T4 modify previous_hash,37,1698,1,1
+T4 modify previous_hash,38,64,1,1
+T4 modify previous_hash,39,235,1,1
+T4 modify previous_hash,40,396,1,1
+T4 modify previous_hash,41,964,1,1
+T4 modify previous_hash,42,95,1,1
+T4 modify previous_hash,43,1270,1,1
+T4 modify previous_hash,44,504,1,1
+T4 modify previous_hash,45,385,1,1
+T4 modify previous_hash,46,2299,1,1
+T4 modify previous_hash,47,2362,1,1
+T4 modify previous_hash,48,1435,1,1
+T4 modify previous_hash,49,1291,1,1
+T4 modify previous_hash,50,1868,1,1
+T4 modify previous_hash,51,2488,1,1
+T4 modify previous_hash,52,2563,1,1
+T4 modify previous_hash,53,2682,1,1
+T4 modify previous_hash,54,2520,1,1
+T4 modify previous_hash,55,156,1,1
+T4 modify previous_hash,56,1656,1,1
+T4 modify previous_hash,57,1295,1,1
+T4 modify previous_hash,58,2490,1,1
+T4 modify previous_hash,59,884,1,1
+T4 modify previous_hash,60,2434,1,1
+T4 modify previous_hash,61,1896,1,1
+T4 modify previous_hash,62,1746,1,1
+T4 modify previous_hash,63,2769,1,1
+T4 modify previous_hash,64,490,1,1
+T4 modify previous_hash,65,1533,1,1
+T4 modify previous_hash,66,2054,1,1
+T4 modify previous_hash,67,1031,1,1
+T4 modify previous_hash,68,1594,1,1
+T4 modify previous_hash,69,1196,1,1
+T4 modify previous_hash,70,1460,1,1
+T4 modify previous_hash,71,237,1,1
+T4 modify previous_hash,72,1789,1,1
+T4 modify previous_hash,73,97,1,1
+T4 modify previous_hash,74,1153,1,1
+T4 modify previous_hash,75,1354,1,1
+T4 modify previous_hash,76,1187,1,1
+T4 modify previous_hash,77,502,1,1
+T4 modify previous_hash,78,1217,1,1
+T4 modify previous_hash,79,1707,1,1
+T4 modify previous_hash,80,1307,1,1
+T4 modify previous_hash,81,2399,1,1
+T4 modify previous_hash,82,84,1,1
+T4 modify previous_hash,83,2221,1,1
+T4 modify previous_hash,84,1403,1,1
+T4 modify previous_hash,85,809,1,1
+T4 modify previous_hash,86,2298,1,1
+T4 modify previous_hash,87,230,1,1
+T4 modify previous_hash,88,462,1,1
+T4 modify previous_hash,89,665,1,1
+T4 modify previous_hash,90,2536,1,1
+T4 modify previous_hash,91,503,1,1
+T4 modify previous_hash,92,485,1,1
+T4 modify previous_hash,93,153,1,1
+T4 modify previous_hash,94,515,1,1
+T4 modify previous_hash,95,2141,1,1
+T4 modify previous_hash,96,1451,1,1
+T4 modify previous_hash,97,2446,1,1
+T4 modify previous_hash,98,2654,1,1
+T4 modify previous_hash,99,2687,1,1
+T5 delete middle block,0,1238,1,1
+T5 delete middle block,1,118,1,1
+T5 delete middle block,2,1740,1,1
+T5 delete middle block,3,2369,1,1
+T5 delete middle block,4,518,1,1
+T5 delete middle block,5,1459,1,1
+T5 delete middle block,6,1702,1,1
+T5 delete middle block,7,1574,1,1
+T5 delete middle block,8,1545,1,1
+T5 delete middle block,9,981,1,1
+T5 delete middle block,10,1725,1,1
+T5 delete middle block,11,2714,1,1
+T5 delete middle block,12,900,1,1
+T5 delete middle block,13,513,1,1
+T5 delete middle block,14,752,1,1
+T5 delete middle block,15,2224,1,1
+T5 delete middle block,16,117,1,1
+T5 delete middle block,17,2710,1,1
+T5 delete middle block,18,2218,1,1
+T5 delete middle block,19,2273,1,1
+T5 delete middle block,20,1626,1,1
+T5 delete middle block,21,1045,1,1
+T5 delete middle block,22,605,1,1
+T5 delete middle block,23,935,1,1
+T5 delete middle block,24,96,1,1
+T5 delete middle block,25,68,1,1
+T5 delete middle block,26,1134,1,1
+T5 delete middle block,27,2217,1,1
+T5 delete middle block,28,1962,1,1
+T5 delete middle block,29,1712,1,1
+T5 delete middle block,30,1081,1,1
+T5 delete middle block,31,1290,1,1
+T5 delete middle block,32,568,1,1
+T5 delete middle block,33,2568,1,1
+T5 delete middle block,34,2432,1,1
+T5 delete middle block,35,367,1,1
+T5 delete middle block,36,735,1,1
+T5 delete middle block,37,2266,1,1
+T5 delete middle block,38,156,1,1
+T5 delete middle block,39,2664,1,1
+T5 delete middle block,40,2106,1,1
+T5 delete middle block,41,1087,1,1
+T5 delete middle block,42,1396,1,1
+T5 delete middle block,43,2593,1,1
+T5 delete middle block,44,2132,1,1
+T5 delete middle block,45,1301,1,1
+T5 delete middle block,46,231,1,1
+T5 delete middle block,47,2695,1,1
+T5 delete middle block,48,47,1,1
+T5 delete middle block,49,2572,1,1
+T5 delete middle block,50,995,1,1
+T5 delete middle block,51,1928,1,1
+T5 delete middle block,52,239,1,1
+T5 delete middle block,53,909,1,1
+T5 delete middle block,54,2782,1,1
+T5 delete middle block,55,2084,1,1
+T5 delete middle block,56,618,1,1
+T5 delete middle block,57,1635,1,1
+T5 delete middle block,58,1475,1,1
+T5 delete middle block,59,953,1,1
+T5 delete middle block,60,2301,1,1
+T5 delete middle block,61,1130,1,1
+T5 delete middle block,62,1408,1,1
+T5 delete middle block,63,824,1,1
+T5 delete middle block,64,1535,1,1
+T5 delete middle block,65,1471,1,1
+T5 delete middle block,66,1882,1,1
+T5 delete middle block,67,2610,1,1
+T5 delete middle block,68,1875,1,1
+T5 delete middle block,69,2248,1,1
+T5 delete middle block,70,1942,1,1
+T5 delete middle block,71,2759,1,1
+T5 delete middle block,72,2379,1,1
+T5 delete middle block,73,1279,1,1
+T5 delete middle block,74,770,1,1
+T5 delete middle block,75,649,1,1
+T5 delete middle block,76,2573,1,1
+T5 delete middle block,77,1682,1,1
+T5 delete middle block,78,630,1,1
+T5 delete middle block,79,1986,1,1
+T5 delete middle block,80,22,1,1
+T5 delete middle block,81,1452,1,1
+T5 delete middle block,82,2144,1,1
+T5 delete middle block,83,1673,1,1
+T5 delete middle block,84,154,1,1
+T5 delete middle block,85,2618,1,1
+T5 delete middle block,86,707,1,1
+T5 delete middle block,87,345,1,1
+T5 delete middle block,88,1225,1,1
+T5 delete middle block,89,1527,1,1
+T5 delete middle block,90,2240,1,1
+T5 delete middle block,91,1086,1,1
+T5 delete middle block,92,566,1,1
+T5 delete middle block,93,413,1,1
+T5 delete middle block,94,76,1,1
+T5 delete middle block,95,2185,1,1
+T5 delete middle block,96,890,1,1
+T5 delete middle block,97,2386,1,1
+T5 delete middle block,98,1257,1,1
+T5 delete middle block,99,2346,1,1
+T6 insert forged block,0,183,1,1
+T6 insert forged block,1,1611,1,1
+T6 insert forged block,2,1559,1,1
+T6 insert forged block,3,2208,1,1
+T6 insert forged block,4,2116,1,1
+T6 insert forged block,5,2639,1,1
+T6 insert forged block,6,2711,1,1
+T6 insert forged block,7,648,1,1
+T6 insert forged block,8,2084,1,1
+T6 insert forged block,9,430,1,1
+T6 insert forged block,10,351,1,1
+T6 insert forged block,11,582,1,1
+T6 insert forged block,12,1595,1,1
+T6 insert forged block,13,1367,1,1
+T6 insert forged block,14,2243,1,1
+T6 insert forged block,15,1071,1,1
+T6 insert forged block,16,1272,1,1
+T6 insert forged block,17,171,1,1
+T6 insert forged block,18,2428,1,1
+T6 insert forged block,19,2713,1,1
+T6 insert forged block,20,778,1,1
+T6 insert forged block,21,665,1,1
+T6 insert forged block,22,1200,1,1
+T6 insert forged block,23,1210,1,1
+T6 insert forged block,24,2217,1,1
+T6 insert forged block,25,1170,1,1
+T6 insert forged block,26,1464,1,1
+T6 insert forged block,27,549,1,1
+T6 insert forged block,28,1592,1,1
+T6 insert forged block,29,773,1,1
+T6 insert forged block,30,2580,1,1
+T6 insert forged block,31,39,1,1
+T6 insert forged block,32,2482,1,1
+T6 insert forged block,33,2654,1,1
+T6 insert forged block,34,1967,1,1
+T6 insert forged block,35,1732,1,1
+T6 insert forged block,36,1457,1,1
+T6 insert forged block,37,2202,1,1
+T6 insert forged block,38,700,1,1
+T6 insert forged block,39,2115,1,1
+T6 insert forged block,40,121,1,1
+T6 insert forged block,41,736,1,1
+T6 insert forged block,42,1289,1,1
+T6 insert forged block,43,2209,1,1
+T6 insert forged block,44,593,1,1
+T6 insert forged block,45,672,1,1
+T6 insert forged block,46,117,1,1
+T6 insert forged block,47,478,1,1
+T6 insert forged block,48,2110,1,1
+T6 insert forged block,49,2735,1,1
+T6 insert forged block,50,2636,1,1
+T6 insert forged block,51,9,1,1
+T6 insert forged block,52,1535,1,1
+T6 insert forged block,53,261,1,1
+T6 insert forged block,54,1508,1,1
+T6 insert forged block,55,1240,1,1
+T6 insert forged block,56,886,1,1
+T6 insert forged block,57,2180,1,1
+T6 insert forged block,58,632,1,1
+T6 insert forged block,59,2456,1,1
+T6 insert forged block,60,2499,1,1
+T6 insert forged block,61,1017,1,1
+T6 insert forged block,62,519,1,1
+T6 insert forged block,63,436,1,1
+T6 insert forged block,64,1337,1,1
+T6 insert forged block,65,1985,1,1
+T6 insert forged block,66,440,1,1
+T6 insert forged block,67,300,1,1
+T6 insert forged block,68,1562,1,1
+T6 insert forged block,69,1076,1,1
+T6 insert forged block,70,2528,1,1
+T6 insert forged block,71,1235,1,1
+T6 insert forged block,72,2653,1,1
+T6 insert forged block,73,482,1,1
+T6 insert forged block,74,1425,1,1
+T6 insert forged block,75,1944,1,1
+T6 insert forged block,76,2043,1,1
+T6 insert forged block,77,496,1,1
+T6 insert forged block,78,2276,1,1
+T6 insert forged block,79,2126,1,1
+T6 insert forged block,80,1012,1,1
+T6 insert forged block,81,1470,1,1
+T6 insert forged block,82,1868,1,1
+T6 insert forged block,83,2398,1,1
+T6 insert forged block,84,1414,1,1
+T6 insert forged block,85,339,1,1
+T6 insert forged block,86,283,1,1
+T6 insert forged block,87,360,1,1
+T6 insert forged block,88,2027,1,1
+T6 insert forged block,89,1279,1,1
+T6 insert forged block,90,1087,1,1
+T6 insert forged block,91,2712,1,1
+T6 insert forged block,92,926,1,1
+T6 insert forged block,93,690,1,1
+T6 insert forged block,94,1332,1,1
+T6 insert forged block,95,1772,1,1
+T6 insert forged block,96,2074,1,1
+T6 insert forged block,97,2301,1,1
+T6 insert forged block,98,1359,1,1
+T6 insert forged block,99,1322,1,1
+T7 swap adjacent blocks,0,2692,1,1
+T7 swap adjacent blocks,1,2021,1,1
+T7 swap adjacent blocks,2,1651,1,1
+T7 swap adjacent blocks,3,1285,1,1
+T7 swap adjacent blocks,4,724,1,1
+T7 swap adjacent blocks,5,805,1,1
+T7 swap adjacent blocks,6,1897,1,1
+T7 swap adjacent blocks,7,902,1,1
+T7 swap adjacent blocks,8,1428,1,1
+T7 swap adjacent blocks,9,1435,1,1
+T7 swap adjacent blocks,10,1679,1,1
+T7 swap adjacent blocks,11,2417,1,1
+T7 swap adjacent blocks,12,1564,1,1
+T7 swap adjacent blocks,13,872,1,1
+T7 swap adjacent blocks,14,633,1,1
+T7 swap adjacent blocks,15,1810,1,1
+T7 swap adjacent blocks,16,2321,1,1
+T7 swap adjacent blocks,17,2691,1,1
+T7 swap adjacent blocks,18,523,1,1
+T7 swap adjacent blocks,19,1767,1,1
+T7 swap adjacent blocks,20,1097,1,1
+T7 swap adjacent blocks,21,1348,1,1
+T7 swap adjacent blocks,22,483,1,1
+T7 swap adjacent blocks,23,1311,1,1
+T7 swap adjacent blocks,24,1092,1,1
+T7 swap adjacent blocks,25,1821,1,1
+T7 swap adjacent blocks,26,1080,1,1
+T7 swap adjacent blocks,27,596,1,1
+T7 swap adjacent blocks,28,2233,1,1
+T7 swap adjacent blocks,29,2568,1,1
+T7 swap adjacent blocks,30,1099,1,1
+T7 swap adjacent blocks,31,960,1,1
+T7 swap adjacent blocks,32,1359,1,1
+T7 swap adjacent blocks,33,588,1,1
+T7 swap adjacent blocks,34,2300,1,1
+T7 swap adjacent blocks,35,505,1,1
+T7 swap adjacent blocks,36,1098,1,1
+T7 swap adjacent blocks,37,1203,1,1
+T7 swap adjacent blocks,38,2353,1,1
+T7 swap adjacent blocks,39,1877,1,1
+T7 swap adjacent blocks,40,2594,1,1
+T7 swap adjacent blocks,41,1644,1,1
+T7 swap adjacent blocks,42,1637,1,1
+T7 swap adjacent blocks,43,89,1,1
+T7 swap adjacent blocks,44,2252,1,1
+T7 swap adjacent blocks,45,1349,1,1
+T7 swap adjacent blocks,46,2762,1,1
+T7 swap adjacent blocks,47,1678,1,1
+T7 swap adjacent blocks,48,1380,1,1
+T7 swap adjacent blocks,49,390,1,1
+T7 swap adjacent blocks,50,2782,1,1
+T7 swap adjacent blocks,51,2027,1,1
+T7 swap adjacent blocks,52,2778,1,1
+T7 swap adjacent blocks,53,2593,1,1
+T7 swap adjacent blocks,54,2735,1,1
+T7 swap adjacent blocks,55,2239,1,1
+T7 swap adjacent blocks,56,2117,1,1
+T7 swap adjacent blocks,57,860,1,1
+T7 swap adjacent blocks,58,1739,1,1
+T7 swap adjacent blocks,59,1443,1,1
+T7 swap adjacent blocks,60,2656,1,1
+T7 swap adjacent blocks,61,1354,1,1
+T7 swap adjacent blocks,62,246,1,1
+T7 swap adjacent blocks,63,1638,1,1
+T7 swap adjacent blocks,64,709,1,1
+T7 swap adjacent blocks,65,44,1,1
+T7 swap adjacent blocks,66,1094,1,1
+T7 swap adjacent blocks,67,2290,1,1
+T7 swap adjacent blocks,68,1033,1,1
+T7 swap adjacent blocks,69,535,1,1
+T7 swap adjacent blocks,70,1369,1,1
+T7 swap adjacent blocks,71,2372,1,1
+T7 swap adjacent blocks,72,2640,1,1
+T7 swap adjacent blocks,73,2506,1,1
+T7 swap adjacent blocks,74,1699,1,1
+T7 swap adjacent blocks,75,1950,1,1
+T7 swap adjacent blocks,76,1979,1,1
+T7 swap adjacent blocks,77,1388,1,1
+T7 swap adjacent blocks,78,49,1,1
+T7 swap adjacent blocks,79,154,1,1
+T7 swap adjacent blocks,80,901,1,1
+T7 swap adjacent blocks,81,2607,1,1
+T7 swap adjacent blocks,82,495,1,1
+T7 swap adjacent blocks,83,2707,1,1
+T7 swap adjacent blocks,84,1101,1,1
+T7 swap adjacent blocks,85,1338,1,1
+T7 swap adjacent blocks,86,73,1,1
+T7 swap adjacent blocks,87,857,1,1
+T7 swap adjacent blocks,88,1873,1,1
+T7 swap adjacent blocks,89,2110,1,1
+T7 swap adjacent blocks,90,1135,1,1
+T7 swap adjacent blocks,91,2552,1,1
+T7 swap adjacent blocks,92,2582,1,1
+T7 swap adjacent blocks,93,1514,1,1
+T7 swap adjacent blocks,94,324,1,1
+T7 swap adjacent blocks,95,2277,1,1
+T7 swap adjacent blocks,96,769,1,1
+T7 swap adjacent blocks,97,2208,1,1
+T7 swap adjacent blocks,98,47,1,1
+T7 swap adjacent blocks,99,392,1,1
+T8 modify newest block,0,2791,1,1
+T8 modify newest block,1,2791,1,1
+T8 modify newest block,2,2791,1,1
+T8 modify newest block,3,2791,1,1
+T8 modify newest block,4,2791,1,1
+T8 modify newest block,5,2791,1,1
+T8 modify newest block,6,2791,1,1
+T8 modify newest block,7,2791,1,1
+T8 modify newest block,8,2791,1,1
+T8 modify newest block,9,2791,1,1
+T8 modify newest block,10,2791,1,1
+T8 modify newest block,11,2791,1,1
+T8 modify newest block,12,2791,1,1
+T8 modify newest block,13,2791,1,1
+T8 modify newest block,14,2791,1,1
+T8 modify newest block,15,2791,1,1
+T8 modify newest block,16,2791,1,1
+T8 modify newest block,17,2791,1,1
+T8 modify newest block,18,2791,1,1
+T8 modify newest block,19,2791,1,1
+T8 modify newest block,20,2791,1,1
+T8 modify newest block,21,2791,1,1
+T8 modify newest block,22,2791,1,1
+T8 modify newest block,23,2791,1,1
+T8 modify newest block,24,2791,1,1
+T8 modify newest block,25,2791,1,1
+T8 modify newest block,26,2791,1,1
+T8 modify newest block,27,2791,1,1
+T8 modify newest block,28,2791,1,1
+T8 modify newest block,29,2791,1,1
+T8 modify newest block,30,2791,1,1
+T8 modify newest block,31,2791,1,1
+T8 modify newest block,32,2791,1,1
+T8 modify newest block,33,2791,1,1
+T8 modify newest block,34,2791,1,1
+T8 modify newest block,35,2791,1,1
+T8 modify newest block,36,2791,1,1
+T8 modify newest block,37,2791,1,1
+T8 modify newest block,38,2791,1,1
+T8 modify newest block,39,2791,1,1
+T8 modify newest block,40,2791,1,1
+T8 modify newest block,41,2791,1,1
+T8 modify newest block,42,2791,1,1
+T8 modify newest block,43,2791,1,1
+T8 modify newest block,44,2791,1,1
+T8 modify newest block,45,2791,1,1
+T8 modify newest block,46,2791,1,1
+T8 modify newest block,47,2791,1,1
+T8 modify newest block,48,2791,1,1
+T8 modify newest block,49,2791,1,1
+T8 modify newest block,50,2791,1,1
+T8 modify newest block,51,2791,1,1
+T8 modify newest block,52,2791,1,1
+T8 modify newest block,53,2791,1,1
+T8 modify newest block,54,2791,1,1
+T8 modify newest block,55,2791,1,1
+T8 modify newest block,56,2791,1,1
+T8 modify newest block,57,2791,1,1
+T8 modify newest block,58,2791,1,1
+T8 modify newest block,59,2791,1,1
+T8 modify newest block,60,2791,1,1
+T8 modify newest block,61,2791,1,1
+T8 modify newest block,62,2791,1,1
+T8 modify newest block,63,2791,1,1
+T8 modify newest block,64,2791,1,1
+T8 modify newest block,65,2791,1,1
+T8 modify newest block,66,2791,1,1
+T8 modify newest block,67,2791,1,1
+T8 modify newest block,68,2791,1,1
+T8 modify newest block,69,2791,1,1
+T8 modify newest block,70,2791,1,1
+T8 modify newest block,71,2791,1,1
+T8 modify newest block,72,2791,1,1
+T8 modify newest block,73,2791,1,1
+T8 modify newest block,74,2791,1,1
+T8 modify newest block,75,2791,1,1
+T8 modify newest block,76,2791,1,1
+T8 modify newest block,77,2791,1,1
+T8 modify newest block,78,2791,1,1
+T8 modify newest block,79,2791,1,1
+T8 modify newest block,80,2791,1,1
+T8 modify newest block,81,2791,1,1
+T8 modify newest block,82,2791,1,1
+T8 modify newest block,83,2791,1,1
+T8 modify newest block,84,2791,1,1
+T8 modify newest block,85,2791,1,1
+T8 modify newest block,86,2791,1,1
+T8 modify newest block,87,2791,1,1
+T8 modify newest block,88,2791,1,1
+T8 modify newest block,89,2791,1,1
+T8 modify newest block,90,2791,1,1
+T8 modify newest block,91,2791,1,1
+T8 modify newest block,92,2791,1,1
+T8 modify newest block,93,2791,1,1
+T8 modify newest block,94,2791,1,1
+T8 modify newest block,95,2791,1,1
+T8 modify newest block,96,2791,1,1
+T8 modify newest block,97,2791,1,1
+T8 modify newest block,98,2791,1,1
+T8 modify newest block,99,2791,1,1
+L1 newest block edited + hash recomputed,0,2791,0,1
+L1 newest block edited + hash recomputed,1,2791,0,1
+L1 newest block edited + hash recomputed,2,2791,0,1
+L1 newest block edited + hash recomputed,3,2791,0,1
+L1 newest block edited + hash recomputed,4,2791,0,1
+L1 newest block edited + hash recomputed,5,2791,0,1
+L1 newest block edited + hash recomputed,6,2791,0,1
+L1 newest block edited + hash recomputed,7,2791,0,1
+L1 newest block edited + hash recomputed,8,2791,0,1
+L1 newest block edited + hash recomputed,9,2791,0,1
+L1 newest block edited + hash recomputed,10,2791,0,1
+L1 newest block edited + hash recomputed,11,2791,0,1
+L1 newest block edited + hash recomputed,12,2791,0,1
+L1 newest block edited + hash recomputed,13,2791,0,1
+L1 newest block edited + hash recomputed,14,2791,0,1
+L1 newest block edited + hash recomputed,15,2791,0,1
+L1 newest block edited + hash recomputed,16,2791,0,1
+L1 newest block edited + hash recomputed,17,2791,0,1
+L1 newest block edited + hash recomputed,18,2791,0,1
+L1 newest block edited + hash recomputed,19,2791,0,1
+L1 newest block edited + hash recomputed,20,2791,0,1
+L1 newest block edited + hash recomputed,21,2791,0,1
+L1 newest block edited + hash recomputed,22,2791,0,1
+L1 newest block edited + hash recomputed,23,2791,0,1
+L1 newest block edited + hash recomputed,24,2791,0,1
+L1 newest block edited + hash recomputed,25,2791,0,1
+L1 newest block edited + hash recomputed,26,2791,0,1
+L1 newest block edited + hash recomputed,27,2791,0,1
+L1 newest block edited + hash recomputed,28,2791,0,1
+L1 newest block edited + hash recomputed,29,2791,0,1
+L1 newest block edited + hash recomputed,30,2791,0,1
+L1 newest block edited + hash recomputed,31,2791,0,1
+L1 newest block edited + hash recomputed,32,2791,0,1
+L1 newest block edited + hash recomputed,33,2791,0,1
+L1 newest block edited + hash recomputed,34,2791,0,1
+L1 newest block edited + hash recomputed,35,2791,0,1
+L1 newest block edited + hash recomputed,36,2791,0,1
+L1 newest block edited + hash recomputed,37,2791,0,1
+L1 newest block edited + hash recomputed,38,2791,0,1
+L1 newest block edited + hash recomputed,39,2791,0,1
+L1 newest block edited + hash recomputed,40,2791,0,1
+L1 newest block edited + hash recomputed,41,2791,0,1
+L1 newest block edited + hash recomputed,42,2791,0,1
+L1 newest block edited + hash recomputed,43,2791,0,1
+L1 newest block edited + hash recomputed,44,2791,0,1
+L1 newest block edited + hash recomputed,45,2791,0,1
+L1 newest block edited + hash recomputed,46,2791,0,1
+L1 newest block edited + hash recomputed,47,2791,0,1
+L1 newest block edited + hash recomputed,48,2791,0,1
+L1 newest block edited + hash recomputed,49,2791,0,1
+L1 newest block edited + hash recomputed,50,2791,0,1
+L1 newest block edited + hash recomputed,51,2791,0,1
+L1 newest block edited + hash recomputed,52,2791,0,1
+L1 newest block edited + hash recomputed,53,2791,0,1
+L1 newest block edited + hash recomputed,54,2791,0,1
+L1 newest block edited + hash recomputed,55,2791,0,1
+L1 newest block edited + hash recomputed,56,2791,0,1
+L1 newest block edited + hash recomputed,57,2791,0,1
+L1 newest block edited + hash recomputed,58,2791,0,1
+L1 newest block edited + hash recomputed,59,2791,0,1
+L1 newest block edited + hash recomputed,60,2791,0,1
+L1 newest block edited + hash recomputed,61,2791,0,1
+L1 newest block edited + hash recomputed,62,2791,0,1
+L1 newest block edited + hash recomputed,63,2791,0,1
+L1 newest block edited + hash recomputed,64,2791,0,1
+L1 newest block edited + hash recomputed,65,2791,0,1
+L1 newest block edited + hash recomputed,66,2791,0,1
+L1 newest block edited + hash recomputed,67,2791,0,1
+L1 newest block edited + hash recomputed,68,2791,0,1
+L1 newest block edited + hash recomputed,69,2791,0,1
+L1 newest block edited + hash recomputed,70,2791,0,1
+L1 newest block edited + hash recomputed,71,2791,0,1
+L1 newest block edited + hash recomputed,72,2791,0,1
+L1 newest block edited + hash recomputed,73,2791,0,1
+L1 newest block edited + hash recomputed,74,2791,0,1
+L1 newest block edited + hash recomputed,75,2791,0,1
+L1 newest block edited + hash recomputed,76,2791,0,1
+L1 newest block edited + hash recomputed,77,2791,0,1
+L1 newest block edited + hash recomputed,78,2791,0,1
+L1 newest block edited + hash recomputed,79,2791,0,1
+L1 newest block edited + hash recomputed,80,2791,0,1
+L1 newest block edited + hash recomputed,81,2791,0,1
+L1 newest block edited + hash recomputed,82,2791,0,1
+L1 newest block edited + hash recomputed,83,2791,0,1
+L1 newest block edited + hash recomputed,84,2791,0,1
+L1 newest block edited + hash recomputed,85,2791,0,1
+L1 newest block edited + hash recomputed,86,2791,0,1
+L1 newest block edited + hash recomputed,87,2791,0,1
+L1 newest block edited + hash recomputed,88,2791,0,1
+L1 newest block edited + hash recomputed,89,2791,0,1
+L1 newest block edited + hash recomputed,90,2791,0,1
+L1 newest block edited + hash recomputed,91,2791,0,1
+L1 newest block edited + hash recomputed,92,2791,0,1
+L1 newest block edited + hash recomputed,93,2791,0,1
+L1 newest block edited + hash recomputed,94,2791,0,1
+L1 newest block edited + hash recomputed,95,2791,0,1
+L1 newest block edited + hash recomputed,96,2791,0,1
+L1 newest block edited + hash recomputed,97,2791,0,1
+L1 newest block edited + hash recomputed,98,2791,0,1
+L1 newest block edited + hash recomputed,99,2791,0,1
+L2 full-chain rewrite (all later hashes recomputed),0,639,0,1
+L2 full-chain rewrite (all later hashes recomputed),1,1352,0,1
+L2 full-chain rewrite (all later hashes recomputed),2,899,0,1
+L2 full-chain rewrite (all later hashes recomputed),3,1899,0,1
+L2 full-chain rewrite (all later hashes recomputed),4,846,0,1
+L2 full-chain rewrite (all later hashes recomputed),5,2483,0,1
+L2 full-chain rewrite (all later hashes recomputed),6,2758,0,1
+L2 full-chain rewrite (all later hashes recomputed),7,700,0,1
+L2 full-chain rewrite (all later hashes recomputed),8,1268,0,1
+L2 full-chain rewrite (all later hashes recomputed),9,346,0,1
+L2 full-chain rewrite (all later hashes recomputed),10,2325,0,1
+L2 full-chain rewrite (all later hashes recomputed),11,1709,0,1
+L2 full-chain rewrite (all later hashes recomputed),12,2138,0,1
+L2 full-chain rewrite (all later hashes recomputed),13,2790,0,1
+L2 full-chain rewrite (all later hashes recomputed),14,2413,0,1
+L2 full-chain rewrite (all later hashes recomputed),15,2291,0,1
+L2 full-chain rewrite (all later hashes recomputed),16,546,0,1
+L2 full-chain rewrite (all later hashes recomputed),17,443,0,1
+L2 full-chain rewrite (all later hashes recomputed),18,116,0,1
+L2 full-chain rewrite (all later hashes recomputed),19,1110,0,1
+L2 full-chain rewrite (all later hashes recomputed),20,1719,0,1
+L2 full-chain rewrite (all later hashes recomputed),21,183,0,1
+L2 full-chain rewrite (all later hashes recomputed),22,759,0,1
+L2 full-chain rewrite (all later hashes recomputed),23,2254,0,1
+L2 full-chain rewrite (all later hashes recomputed),24,2103,0,1
+L2 full-chain rewrite (all later hashes recomputed),25,948,0,1
+L2 full-chain rewrite (all later hashes recomputed),26,1929,0,1
+L2 full-chain rewrite (all later hashes recomputed),27,2695,0,1
+L2 full-chain rewrite (all later hashes recomputed),28,2716,0,1
+L2 full-chain rewrite (all later hashes recomputed),29,1398,0,1
+L2 full-chain rewrite (all later hashes recomputed),30,1408,0,1
+L2 full-chain rewrite (all later hashes recomputed),31,1424,0,1
+L2 full-chain rewrite (all later hashes recomputed),32,1302,0,1
+L2 full-chain rewrite (all later hashes recomputed),33,2485,0,1
+L2 full-chain rewrite (all later hashes recomputed),34,1965,0,1
+L2 full-chain rewrite (all later hashes recomputed),35,1046,0,1
+L2 full-chain rewrite (all later hashes recomputed),36,2001,0,1
+L2 full-chain rewrite (all later hashes recomputed),37,1340,0,1
+L2 full-chain rewrite (all later hashes recomputed),38,1025,0,1
+L2 full-chain rewrite (all later hashes recomputed),39,151,0,1
+L2 full-chain rewrite (all later hashes recomputed),40,2637,0,1
+L2 full-chain rewrite (all later hashes recomputed),41,2008,0,1
+L2 full-chain rewrite (all later hashes recomputed),42,546,0,1
+L2 full-chain rewrite (all later hashes recomputed),43,90,0,1
+L2 full-chain rewrite (all later hashes recomputed),44,1969,0,1
+L2 full-chain rewrite (all later hashes recomputed),45,1500,0,1
+L2 full-chain rewrite (all later hashes recomputed),46,1040,0,1
+L2 full-chain rewrite (all later hashes recomputed),47,1910,0,1
+L2 full-chain rewrite (all later hashes recomputed),48,815,0,1
+L2 full-chain rewrite (all later hashes recomputed),49,1506,0,1
+L2 full-chain rewrite (all later hashes recomputed),50,1121,0,1
+L2 full-chain rewrite (all later hashes recomputed),51,2099,0,1
+L2 full-chain rewrite (all later hashes recomputed),52,1639,0,1
+L2 full-chain rewrite (all later hashes recomputed),53,1246,0,1
+L2 full-chain rewrite (all later hashes recomputed),54,895,0,1
+L2 full-chain rewrite (all later hashes recomputed),55,2383,0,1
+L2 full-chain rewrite (all later hashes recomputed),56,222,0,1
+L2 full-chain rewrite (all later hashes recomputed),57,1683,0,1
+L2 full-chain rewrite (all later hashes recomputed),58,265,0,1
+L2 full-chain rewrite (all later hashes recomputed),59,2644,0,1
+L2 full-chain rewrite (all later hashes recomputed),60,2709,0,1
+L2 full-chain rewrite (all later hashes recomputed),61,2085,0,1
+L2 full-chain rewrite (all later hashes recomputed),62,2181,0,1
+L2 full-chain rewrite (all later hashes recomputed),63,1224,0,1
+L2 full-chain rewrite (all later hashes recomputed),64,1977,0,1
+L2 full-chain rewrite (all later hashes recomputed),65,2525,0,1
+L2 full-chain rewrite (all later hashes recomputed),66,372,0,1
+L2 full-chain rewrite (all later hashes recomputed),67,2088,0,1
+L2 full-chain rewrite (all later hashes recomputed),68,2140,0,1
+L2 full-chain rewrite (all later hashes recomputed),69,2441,0,1
+L2 full-chain rewrite (all later hashes recomputed),70,1332,0,1
+L2 full-chain rewrite (all later hashes recomputed),71,2004,0,1
+L2 full-chain rewrite (all later hashes recomputed),72,1303,0,1
+L2 full-chain rewrite (all later hashes recomputed),73,2706,0,1
+L2 full-chain rewrite (all later hashes recomputed),74,1392,0,1
+L2 full-chain rewrite (all later hashes recomputed),75,1475,0,1
+L2 full-chain rewrite (all later hashes recomputed),76,743,0,1
+L2 full-chain rewrite (all later hashes recomputed),77,320,0,1
+L2 full-chain rewrite (all later hashes recomputed),78,2303,0,1
+L2 full-chain rewrite (all later hashes recomputed),79,715,0,1
+L2 full-chain rewrite (all later hashes recomputed),80,1055,0,1
+L2 full-chain rewrite (all later hashes recomputed),81,2163,0,1
+L2 full-chain rewrite (all later hashes recomputed),82,2133,0,1
+L2 full-chain rewrite (all later hashes recomputed),83,1569,0,1
+L2 full-chain rewrite (all later hashes recomputed),84,2583,0,1
+L2 full-chain rewrite (all later hashes recomputed),85,436,0,1
+L2 full-chain rewrite (all later hashes recomputed),86,2496,0,1
+L2 full-chain rewrite (all later hashes recomputed),87,880,0,1
+L2 full-chain rewrite (all later hashes recomputed),88,119,0,1
+L2 full-chain rewrite (all later hashes recomputed),89,1900,0,1
+L2 full-chain rewrite (all later hashes recomputed),90,987,0,1
+L2 full-chain rewrite (all later hashes recomputed),91,859,0,1
+L2 full-chain rewrite (all later hashes recomputed),92,1758,0,1
+L2 full-chain rewrite (all later hashes recomputed),93,2081,0,1
+L2 full-chain rewrite (all later hashes recomputed),94,2157,0,1
+L2 full-chain rewrite (all later hashes recomputed),95,519,0,1
+L2 full-chain rewrite (all later hashes recomputed),96,2105,0,1
+L2 full-chain rewrite (all later hashes recomputed),97,866,0,1
+L2 full-chain rewrite (all later hashes recomputed),98,1109,0,1
+L2 full-chain rewrite (all later hashes recomputed),99,2002,0,1
+L3 newest blocks truncated,0,2789,0,1
+L3 newest blocks truncated,1,2783,0,1
+L3 newest blocks truncated,2,2786,0,1
+L3 newest blocks truncated,3,2786,0,1
+L3 newest blocks truncated,4,2785,0,1
+L3 newest blocks truncated,5,2783,0,1
+L3 newest blocks truncated,6,2782,0,1
+L3 newest blocks truncated,7,2783,0,1
+L3 newest blocks truncated,8,2788,0,1
+L3 newest blocks truncated,9,2789,0,1
+L3 newest blocks truncated,10,2782,0,1
+L3 newest blocks truncated,11,2783,0,1
+L3 newest blocks truncated,12,2789,0,1
+L3 newest blocks truncated,13,2789,0,1
+L3 newest blocks truncated,14,2789,0,1
+L3 newest blocks truncated,15,2782,0,1
+L3 newest blocks truncated,16,2791,0,1
+L3 newest blocks truncated,17,2791,0,1
+L3 newest blocks truncated,18,2787,0,1
+L3 newest blocks truncated,19,2787,0,1
+L3 newest blocks truncated,20,2789,0,1
+L3 newest blocks truncated,21,2789,0,1
+L3 newest blocks truncated,22,2787,0,1
+L3 newest blocks truncated,23,2783,0,1
+L3 newest blocks truncated,24,2786,0,1
+L3 newest blocks truncated,25,2789,0,1
+L3 newest blocks truncated,26,2784,0,1
+L3 newest blocks truncated,27,2789,0,1
+L3 newest blocks truncated,28,2789,0,1
+L3 newest blocks truncated,29,2791,0,1
+L3 newest blocks truncated,30,2789,0,1
+L3 newest blocks truncated,31,2789,0,1
+L3 newest blocks truncated,32,2785,0,1
+L3 newest blocks truncated,33,2782,0,1
+L3 newest blocks truncated,34,2784,0,1
+L3 newest blocks truncated,35,2783,0,1
+L3 newest blocks truncated,36,2791,0,1
+L3 newest blocks truncated,37,2787,0,1
+L3 newest blocks truncated,38,2788,0,1
+L3 newest blocks truncated,39,2783,0,1
+L3 newest blocks truncated,40,2786,0,1
+L3 newest blocks truncated,41,2783,0,1
+L3 newest blocks truncated,42,2790,0,1
+L3 newest blocks truncated,43,2784,0,1
+L3 newest blocks truncated,44,2785,0,1
+L3 newest blocks truncated,45,2789,0,1
+L3 newest blocks truncated,46,2786,0,1
+L3 newest blocks truncated,47,2789,0,1
+L3 newest blocks truncated,48,2783,0,1
+L3 newest blocks truncated,49,2791,0,1
+L3 newest blocks truncated,50,2784,0,1
+L3 newest blocks truncated,51,2791,0,1
+L3 newest blocks truncated,52,2791,0,1
+L3 newest blocks truncated,53,2790,0,1
+L3 newest blocks truncated,54,2786,0,1
+L3 newest blocks truncated,55,2782,0,1
+L3 newest blocks truncated,56,2787,0,1
+L3 newest blocks truncated,57,2786,0,1
+L3 newest blocks truncated,58,2791,0,1
+L3 newest blocks truncated,59,2789,0,1
+L3 newest blocks truncated,60,2783,0,1
+L3 newest blocks truncated,61,2788,0,1
+L3 newest blocks truncated,62,2790,0,1
+L3 newest blocks truncated,63,2785,0,1
+L3 newest blocks truncated,64,2785,0,1
+L3 newest blocks truncated,65,2788,0,1
+L3 newest blocks truncated,66,2789,0,1
+L3 newest blocks truncated,67,2788,0,1
+L3 newest blocks truncated,68,2788,0,1
+L3 newest blocks truncated,69,2784,0,1
+L3 newest blocks truncated,70,2788,0,1
+L3 newest blocks truncated,71,2786,0,1
+L3 newest blocks truncated,72,2789,0,1
+L3 newest blocks truncated,73,2783,0,1
+L3 newest blocks truncated,74,2785,0,1
+L3 newest blocks truncated,75,2785,0,1
+L3 newest blocks truncated,76,2784,0,1
+L3 newest blocks truncated,77,2786,0,1
+L3 newest blocks truncated,78,2788,0,1
+L3 newest blocks truncated,79,2787,0,1
+L3 newest blocks truncated,80,2784,0,1
+L3 newest blocks truncated,81,2783,0,1
+L3 newest blocks truncated,82,2782,0,1
+L3 newest blocks truncated,83,2784,0,1
+L3 newest blocks truncated,84,2790,0,1
+L3 newest blocks truncated,85,2788,0,1
+L3 newest blocks truncated,86,2788,0,1
+L3 newest blocks truncated,87,2790,0,1
+L3 newest blocks truncated,88,2790,0,1
+L3 newest blocks truncated,89,2786,0,1
+L3 newest blocks truncated,90,2782,0,1
+L3 newest blocks truncated,91,2789,0,1
+L3 newest blocks truncated,92,2790,0,1
+L3 newest blocks truncated,93,2789,0,1
+L3 newest blocks truncated,94,2788,0,1
+L3 newest blocks truncated,95,2785,0,1
+L3 newest blocks truncated,96,2788,0,1
+L3 newest blocks truncated,97,2785,0,1
+L3 newest blocks truncated,98,2791,0,1
+L3 newest blocks truncated,99,2783,0,1

@@ -1,0 +1,21 @@
+batch_number,drug_id,product_name,manufacturer,manufacturing_date,expiry_date
+BATCH2026A,DRG001,Sample Antibiotic A,Manufacturer_A,2026-01-10,2028-01-10
+BATCH2026B,DRG002,Sample Painkiller B,Manufacturer_B,2026-01-15,2028-01-15
+BATCH2026C,DRG003,Sample Antimalarial C,Manufacturer_A,2026-01-20,2028-01-20
+BATCH2026D,DRG004,Sample Antiviral D,Manufacturer_B,2026-01-25,2028-01-25
+BATCH2026E,DRG005,Sample Antacid E,Manufacturer_A,2026-01-30,2028-01-30
+BATCH2026F,DRG006,Sample Vitamin F,Manufacturer_B,2026-02-04,2028-02-04
+BATCH2026G,DRG007,Sample Antihistamine G,Manufacturer_A,2026-02-09,2028-02-09
+BATCH2026H,DRG008,Sample Antidiabetic H,Manufacturer_B,2026-02-14,2028-02-14
+BATCH2026I,DRG009,Sample Antihypertensive I,Manufacturer_A,2026-02-19,2028-02-19
+BATCH2026J,DRG010,Sample Cough Syrup J,Manufacturer_B,2026-02-24,2028-02-24
+BATCH2026K,DRG001,Sample Antibiotic A,Manufacturer_A,2026-03-01,2028-03-01
+BATCH2026L,DRG002,Sample Painkiller B,Manufacturer_B,2026-03-06,2028-03-06
+BATCH2026M,DRG003,Sample Antimalarial C,Manufacturer_A,2026-03-11,2028-03-11
+BATCH2026N,DRG004,Sample Antiviral D,Manufacturer_B,2026-03-16,2028-03-16
+BATCH2026O,DRG005,Sample Antacid E,Manufacturer_A,2026-03-21,2028-03-21
+BATCH2026P,DRG006,Sample Vitamin F,Manufacturer_B,2026-03-26,2028-03-26
+BATCHOLD1,DRG004,Sample Antiviral D,Manufacturer_A,2024-03-01,2026-03-01
+BATCHOLD2,DRG005,Sample Antacid E,Manufacturer_B,2024-03-06,2026-03-06
+BATCHOLD3,DRG006,Sample Vitamin F,Manufacturer_A,2024-03-11,2026-03-11
+BATCHOLD4,DRG007,Sample Antihistamine G,Manufacturer_B,2024-03-16,2026-03-16

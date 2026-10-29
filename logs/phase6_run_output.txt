@@ -1,0 +1,95 @@
+[   0.2s] E1 product registration
+[   0.3s] E2 traceability
+[   0.4s] E3 access control (blockchain + baseline)
+[   0.5s] building application database + ledger from the dataset
+  accepted 2791, rejected 150, blocks 2792
+[   7.2s] E4 ledger tamper detection
+[  32.2s] E5 / E6 / E7 mutation experiments
+[  32.2s] Step 11 database-level tamper comparison
+[  36.2s] Step 10 dataset metrics
+[  36.3s] E8 performance
+  performance repeat 1/5 done
+  performance repeat 2/5 done
+  performance repeat 3/5 done
+  performance repeat 4/5 done
+  performance repeat 5/5 done
+[ 162.4s] figures
+
+=== EXPERIMENT SUMMARY ===
+  E1 Product registration                         975/975    100.0%
+  E2 Traceability                                 200/200    100.0%
+  E3 Access control [blockchain]                  280/280    100.0%
+  E3 Access control [baseline]                    280/280    100.0%
+  E4 Tamper detection (ledger)                   1500/1500   100.0%
+  E5 Duplicate detection                          240/240    100.0%
+  E6 Missing custody events                       330/330    100.0%
+  E7 Data mismatch                                320/320    100.0%
+  S11 Tamper comparison (database level)          100/100    100.0%
+  S10 Dataset evaluation                          960/960    100.0%
+  E8 Performance                                   40/40     100.0%
+
+=== KEY METRICS ===
+  [E1 Product registration           ] Registration correctness (actual = expected)                                   975/975 = 100.0%
+  [E1 Product registration           ] Duplicate serial numbers rejected at registration                              40/40 = 100.0%
+  [E1 Product registration           ] Registered products with exactly one traceable starting event (database)       920/920 = 100.0%
+  [E1 Product registration           ] Registered products with exactly one registration block (ledger)               920/920 = 100.0%
+  [E2 Traceability                   ] Traceability completeness (all four custody events recorded and verified)      200/200 = 100.0%
+  [E3 Access control [blockchain]    ] Unauthorized / invalid attempts rejected with the expected code                240/240 = 100.0%
+  [E3 Access control [blockchain]    ] Database and ledger unchanged after a rejected attempt                         240/240 = 100.0%
+  [E3 Access control [blockchain]    ] Authorized, valid transfers accepted (no over-blocking)                        40/40 = 100.0%
+  [E3 Access control [baseline]      ] Unauthorized / invalid attempts rejected with the expected code                240/240 = 100.0%
+  [E3 Access control [baseline]      ] Database and ledger unchanged after a rejected attempt                         240/240 = 100.0%
+  [E3 Access control [baseline]      ] Authorized, valid transfers accepted (no over-blocking)                        40/40 = 100.0%
+  [E4 Tamper detection (ledger)      ] Detected: T1 modify event data                                                 100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] Detected: T2 modify timestamp                                                  100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] Detected: T3 modify stored hash                                                100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] Detected: T4 modify previous_hash                                              100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] Detected: T5 delete middle block                                               100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] Detected: T6 insert forged block                                               100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] Detected: T7 swap adjacent blocks                                              100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] Detected: T8 modify newest block                                               100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] Integrity verification rate (intact + modified ledgers classified correctly)   900/900 = 100.0%
+  [E4 Tamper detection (ledger)      ] False alarms on intact ledgers                                                 0/100 = 0.0%
+  [E4 Tamper detection (ledger)      ] L1 newest block edited + hash recomputed: detected by chain alone              0/100 = 0.0%
+  [E4 Tamper detection (ledger)      ] L1 newest block edited + hash recomputed: detected with external anchor        100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] L2 full-chain rewrite (all later hashes recomputed): detected by chain alone   0/100 = 0.0%
+  [E4 Tamper detection (ledger)      ] L2 full-chain rewrite (all later hashes recomputed): detected with external an 100/100 = 100.0%
+  [E4 Tamper detection (ledger)      ] L3 newest blocks truncated: detected by chain alone                            0/100 = 0.0%
+  [E4 Tamper detection (ledger)      ] L3 newest blocks truncated: detected with external anchor                      100/100 = 100.0%
+  [E5 Duplicate detection            ] Duplicate registrations injected into legitimate products and detected         200/200 = 100.0%
+  [E5 Duplicate detection            ] Dataset duplicate-serial cases detected (duplicate detection rate)             40/40 = 100.0%
+  [E6 Missing custody events         ] Deleted custody events detected as traceability anomalies                      300/300 = 100.0%
+  [E6 Missing custody events         ] Dataset missing-event cases detected                                           30/30 = 100.0%
+  [E7 Data mismatch                  ] Mismatch detected when 'drug_id' is altered                                    50/50 = 100.0%
+  [E7 Data mismatch                  ] Mismatch detected when 'product_name' is altered                               50/50 = 100.0%
+  [E7 Data mismatch                  ] Mismatch detected when 'manufacturer' is altered                               50/50 = 100.0%
+  [E7 Data mismatch                  ] Mismatch detected when 'manufacturing_date' is altered                         50/50 = 100.0%
+  [E7 Data mismatch                  ] Mismatch detected when 'expiry_date' is altered                                50/50 = 100.0%
+  [E7 Data mismatch                  ] Mismatch detected when 'batch_number' is altered                               50/50 = 100.0%
+  [E7 Data mismatch                  ] Altered product records detected (mismatch detection rate)                     300/300 = 100.0%
+  [E7 Data mismatch                  ] Dataset data-mismatch cases detected                                           20/20 = 100.0%
+  [S11 Tamper comparison (database le] False alarms on untouched records (baseline | ledger | ledger+anchor)          0/300 = 0.0%
+  [S10 Dataset evaluation            ] Detection rate TP/(TP+FN)                                                      200/200 = 100.0%
+  [S10 Dataset evaluation            ] False-positive rate FP/(FP+TN)                                                 0/760 = 0.0%
+  [S10 Dataset evaluation            ] Overall multi-class accuracy (status = expected status)                        960/960 = 100.0%
+  [S10 Traceability completeness     ] Products with all expected custody events: raw dataset (faults present)        850/920 = 92.4%
+  [S10 Traceability completeness     ] Products with all expected custody events: application database (rules enforce 920/920 = 100.0%
+
+=== TAMPER COMPARISON (detected of trials) ===
+  CONTROL  baseline   0.0% | ledger   0.0% | ledger+anchor   0.0%  No tampering (false-alarm check)
+  TB1      baseline 100.0% | ledger 100.0% | ledger+anchor 100.0%  Edit a middle event (receiver changed)
+  TB2      baseline   0.0% | ledger 100.0% | ledger+anchor 100.0%  Shift an event timestamp (order still valid)
+  TB3      baseline   0.0% | ledger 100.0% | ledger+anchor 100.0%  Replace authorization evidence with another valid-looking value
+  TB4      baseline 100.0% | ledger 100.0% | ledger+anchor 100.0%  Delete a middle event
+  TB5      baseline   0.0% | ledger 100.0% | ledger+anchor 100.0%  Append a forged but consistent transfer (record updated to match)
+  TB6      baseline   0.0% | ledger 100.0% | ledger+anchor 100.0%  Rewrite newest event and product owner consistently
+  TB7      baseline   0.0% | ledger   0.0% | ledger+anchor 100.0%  TB6 plus attacker also rewrites the ledger and recomputes every later hash
+
+=== PERFORMANCE (mean over runs) ===
+  N=  100 latency 1.267 -> 2.328 ms (+84%) | throughput 796 -> 432 ev/s (-46%) | db 52 -> 96 KB (+85%)
+  N=  500 latency 1.190 -> 2.315 ms (+95%) | throughput 854 -> 433 ev/s (-49%) | db 116 -> 320 KB (+176%)
+  N= 1000 latency 1.295 -> 2.401 ms (+85%) | throughput 778 -> 418 ev/s (-46%) | db 188 -> 592 KB (+215%)
+  N= 5000 latency 1.339 -> 2.487 ms (+86%) | throughput 750 -> 402 ev/s (-46%) | db 796 -> 2800 KB (+252%)
+
+Total test cases: 5225 | failed: 0 | elapsed 163s
+RESULT: ALL TEST CASES PASSED

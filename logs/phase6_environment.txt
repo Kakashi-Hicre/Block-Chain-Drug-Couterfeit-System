@@ -1,0 +1,11 @@
+run date: 2026-10-28 10:12:41
+mode: FULL
+python: 3.13.18
+platform: Linux-6.18.44-fc-v180-x86_64-with-glibc2.39
+cpu count: 2
+sqlite: 3.53.1
+matplotlib: 3.11.2
+seed: 6006
+settings: {'trials': 100, 'e3_each': 40, 'e2_products': 200, 'e5': 200, 'e6': 300, 'e7': 300, 'sizes': [100, 500, 1000, 5000], 'repeats': 5, 'query_samples': 200}
+sqlite synchronous=FULL (default): every event is committed (durable) before the next
+timings are wall-clock on the machine above and vary between machines and runs

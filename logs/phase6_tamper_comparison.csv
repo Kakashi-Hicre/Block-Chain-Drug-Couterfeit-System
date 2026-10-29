@@ -1,0 +1,9 @@
+scenario,description,trials,baseline_detected,baseline_rate,ledger_detected,ledger_rate,ledger_anchor_detected,ledger_anchor_rate
+CONTROL,No tampering (false-alarm check),100,0,0.0%,0,0.0%,0,0.0%
+TB1,Edit a middle event (receiver changed),100,100,100.0%,100,100.0%,100,100.0%
+TB2,Shift an event timestamp (order still valid),100,0,0.0%,100,100.0%,100,100.0%
+TB3,Replace authorization evidence with another valid-looking value,100,0,0.0%,100,100.0%,100,100.0%
+TB4,Delete a middle event,100,100,100.0%,100,100.0%,100,100.0%
+TB5,Append a forged but consistent transfer (record updated to match),100,0,0.0%,100,100.0%,100,100.0%
+TB6,Rewrite newest event and product owner consistently,100,0,0.0%,100,100.0%,100,100.0%
+TB7,TB6 plus attacker also rewrites the ledger and recomputes every later hash,100,0,0.0%,0,0.0%,100,100.0%

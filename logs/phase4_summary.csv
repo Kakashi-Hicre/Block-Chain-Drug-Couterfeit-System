@@ -1,0 +1,9 @@
+experiment,trials,detected_or_correct,rate
+B1 serials evaluated,960,960,100.0%
+B1 anomaly detection (any finding),200,200,100.0%
+B1 false positives on legitimate,760,0,0.0%
+B2 missing-event mutation (E6),200,200,100.0%
+B3 data-mismatch mutation (E7),200,200,100.0%
+B4 legitimate serials clean in ledger mode,760,760,100.0%
+LT1 ledger block altered in the database,200,200,100.0%
+LT2 database event altered (ledger intact),200,200,100.0%

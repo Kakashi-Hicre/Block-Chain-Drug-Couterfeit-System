@@ -1,0 +1,56 @@
+experiment,measure,successes,n,rate,note
+E1 Product registration,Registration correctness (actual = expected),975,975,100.0%,960 dataset records + 15 invalid-input cases
+E1 Product registration,Duplicate serial numbers rejected at registration,40,40,100.0%,
+E1 Product registration,Registered products with exactly one traceable starting event (database),920,920,100.0%,
+E1 Product registration,Registered products with exactly one registration block (ledger),920,920,100.0%,
+E2 Traceability,Traceability completeness (all four custody events recorded and verified),200,200,100.0%,fresh products moved through all four participants
+E3 Access control [blockchain],Unauthorized / invalid attempts rejected with the expected code,240,240,100.0%,
+E3 Access control [blockchain],Database and ledger unchanged after a rejected attempt,240,240,100.0%,
+E3 Access control [blockchain],"Authorized, valid transfers accepted (no over-blocking)",40,40,100.0%,
+E3 Access control [baseline],Unauthorized / invalid attempts rejected with the expected code,240,240,100.0%,
+E3 Access control [baseline],Database and ledger unchanged after a rejected attempt,240,240,100.0%,
+E3 Access control [baseline],"Authorized, valid transfers accepted (no over-blocking)",40,40,100.0%,
+E4 Tamper detection (ledger),Detected: T1 modify event data,100,100,100.0%,
+E4 Tamper detection (ledger),Detected: T2 modify timestamp,100,100,100.0%,
+E4 Tamper detection (ledger),Detected: T3 modify stored hash,100,100,100.0%,
+E4 Tamper detection (ledger),Detected: T4 modify previous_hash,100,100,100.0%,
+E4 Tamper detection (ledger),Detected: T5 delete middle block,100,100,100.0%,
+E4 Tamper detection (ledger),Detected: T6 insert forged block,100,100,100.0%,
+E4 Tamper detection (ledger),Detected: T7 swap adjacent blocks,100,100,100.0%,
+E4 Tamper detection (ledger),Detected: T8 modify newest block,100,100,100.0%,
+E4 Tamper detection (ledger),Integrity verification rate (intact + modified ledgers classified correctly),900,900,100.0%,100 intact copies + 800 modified copies
+E4 Tamper detection (ledger),False alarms on intact ledgers,0,100,0.0%,
+E4 Tamper detection (ledger),L1 newest block edited + hash recomputed: detected by chain alone,0,100,0.0%,known limitation of a hash chain
+E4 Tamper detection (ledger),L1 newest block edited + hash recomputed: detected with external anchor,100,100,100.0%,
+E4 Tamper detection (ledger),L2 full-chain rewrite (all later hashes recomputed): detected by chain alone,0,100,0.0%,known limitation of a hash chain
+E4 Tamper detection (ledger),L2 full-chain rewrite (all later hashes recomputed): detected with external anchor,100,100,100.0%,
+E4 Tamper detection (ledger),L3 newest blocks truncated: detected by chain alone,0,100,0.0%,known limitation of a hash chain
+E4 Tamper detection (ledger),L3 newest blocks truncated: detected with external anchor,100,100,100.0%,
+E5 Duplicate detection,Duplicate registrations injected into legitimate products and detected,200,200,100.0%,
+E5 Duplicate detection,Dataset duplicate-serial cases detected (duplicate detection rate),40,40,100.0%,
+E6 Missing custody events,Deleted custody events detected as traceability anomalies,300,300,100.0%,
+E6 Missing custody events,  of which: deleted event position = first (registration),121,121,100.0%,
+E6 Missing custody events,  of which: deleted event position = last,85,85,100.0%,
+E6 Missing custody events,  of which: deleted event position = middle,94,94,100.0%,
+E6 Missing custody events,Dataset missing-event cases detected,30,30,100.0%,
+E7 Data mismatch,Mismatch detected when 'drug_id' is altered,50,50,100.0%,
+E7 Data mismatch,Mismatch detected when 'product_name' is altered,50,50,100.0%,
+E7 Data mismatch,Mismatch detected when 'manufacturer' is altered,50,50,100.0%,
+E7 Data mismatch,Mismatch detected when 'manufacturing_date' is altered,50,50,100.0%,
+E7 Data mismatch,Mismatch detected when 'expiry_date' is altered,50,50,100.0%,
+E7 Data mismatch,Mismatch detected when 'batch_number' is altered,50,50,100.0%,
+E7 Data mismatch,Altered product records detected (mismatch detection rate),300,300,100.0%,
+E7 Data mismatch,Dataset data-mismatch cases detected,20,20,100.0%,
+S11 Tamper comparison (database level),False alarms on untouched records (baseline | ledger | ledger+anchor),0,300,0.0%,0 | 0 | 0 of 100 each
+S10 Dataset evaluation,Detection rate TP/(TP+FN),200,200,100.0%,TP=200 FN=0
+S10 Dataset evaluation,False-positive rate FP/(FP+TN),0,760,0.0%,FP=0 TN=760
+S10 Dataset evaluation,Overall multi-class accuracy (status = expected status),960,960,100.0%,
+S10 Dataset evaluation,  detection / correct status: legitimate,760,760,100.0%,
+S10 Dataset evaluation,  detection / correct status: expired_product,30,30,100.0%,
+S10 Dataset evaluation,  detection / correct status: duplicate_serial,40,40,100.0%,
+S10 Dataset evaluation,  detection / correct status: unregistered_product,40,40,100.0%,
+S10 Dataset evaluation,  detection / correct status: unauthorized_transfer,40,40,100.0%,
+S10 Dataset evaluation,  detection / correct status: missing_custody_event,30,30,100.0%,
+S10 Dataset evaluation,  detection / correct status: data_mismatch,20,20,100.0%,
+S10 Traceability completeness,Products with all expected custody events: raw dataset (faults present),850,920,92.4%,events recorded = stages from manufacturer to current holder
+S10 Traceability completeness,Products with all expected custody events: application database (rules enforced at entry),920,920,100.0%,events recorded = stages from manufacturer to current holder

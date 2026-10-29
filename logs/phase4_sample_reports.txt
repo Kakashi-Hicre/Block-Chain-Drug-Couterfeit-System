@@ -1,0 +1,94 @@
+========================================================================
+Verification report - serial SN000001
+========================================================================
+Result : RECORD_VERIFIED
+Note   : Record verified: the registered data and custody history are consistent. This does not prove that the medicine is physically authentic.
+Product: Sample Antiviral D (DRG004), batch BATCH2026N, manufacturer Manufacturer_B
+         made 2026-03-16, expires 2028-03-16, owner Wholesaler_B [At wholesaler]
+Event history:
+  #2044  2026-04-01 17:06:32  REGISTER Manufacturer_B -> Manufacturer_B
+  #2082  2026-04-03 01:32:12  TRANSFER Manufacturer_B -> Distributor_B
+  #2234  2026-04-08 18:04:02  TRANSFER Distributor_B -> Wholesaler_B
+
+========================================================================
+Verification report - serial SN000003
+========================================================================
+Result : UNAUTHORIZED_TRANSFER_ALERT
+Note   : Suspicious record: this is an indication that further investigation is needed, not proof of counterfeiting.
+Product: Sample Vitamin F (DRG006), batch BATCH2026F, manufacturer Manufacturer_B
+         made 2026-02-04, expires 2028-02-04, owner Pharmacy_C [At pharmacy]
+Failed rules:
+  - [ALERT] UNAUTHORIZED_TRANSFER_ALERT: Event #1510 (TRANSFER Rogue_Actor -> Pharmacy_C at 2026-03-12 02:11:32): sender Rogue_Actor is not an authorized participant; no authorization evidence recorded
+Event history:
+  #1019  2026-02-23 21:39:53  REGISTER Manufacturer_B -> Manufacturer_B
+  #1282  2026-03-04 02:11:32  TRANSFER Manufacturer_B -> Distributor_B
+  #1510  2026-03-12 02:11:32  TRANSFER Rogue_Actor -> Pharmacy_C
+
+========================================================================
+Verification report - serial SN000004
+========================================================================
+Result : EXPIRY_WARNING
+Note   : Expired product: this is a product-status condition and does not by itself indicate counterfeiting.
+Product: Sample Vitamin F (DRG006), batch BATCHOLD3, manufacturer Manufacturer_A
+         made 2024-03-11, expires 2026-03-11, owner Pharmacy_C [At pharmacy]
+Failed rules:
+  - [WARNING] EXPIRY_WARNING: Product expired on 2026-03-11 (reference date 2026-06-01)
+Event history:
+  #850   2026-02-18 18:13:17  REGISTER Manufacturer_A -> Manufacturer_A
+  #1123  2026-02-26 21:09:00  TRANSFER Manufacturer_A -> Distributor_B
+  #1345  2026-03-06 08:53:07  TRANSFER Distributor_B -> Wholesaler_A
+  #1488  2026-03-11 09:49:37  TRANSFER Wholesaler_A -> Pharmacy_C
+
+========================================================================
+Verification report - serial SN000012
+========================================================================
+Result : DUPLICATE_SERIAL_ALERT
+Note   : Suspicious record: this is an indication that further investigation is needed, not proof of counterfeiting.
+Product: Sample Antacid E (DRG005), batch BATCH2026O, manufacturer Manufacturer_A
+         made 2026-03-21, expires 2028-03-21, owner Pharmacy_B [At pharmacy]
+Failed rules:
+  - [ALERT] DUPLICATE_SERIAL_ALERT: Serial number was registered 2 times (Manufacturer_A at 2026-04-07 05:36:21; Manufacturer_B at 2026-05-06 17:15:57)
+Event history:
+  #2192  2026-04-07 05:36:21  REGISTER Manufacturer_A -> Manufacturer_A
+  #2359  2026-04-13 00:07:59  TRANSFER Manufacturer_A -> Distributor_B
+  #2566  2026-04-20 17:42:01  TRANSFER Distributor_B -> Wholesaler_B
+  #2708  2026-04-25 10:19:52  TRANSFER Wholesaler_B -> Pharmacy_B
+  #2886  2026-05-06 17:15:57  REGISTER Manufacturer_B -> Manufacturer_B
+
+========================================================================
+Verification report - serial SN000051
+========================================================================
+Result : TRACEABILITY_WARNING
+Note   : Suspicious record: this is an indication that further investigation is needed, not proof of counterfeiting.
+Product: Sample Antimalarial C (DRG003), batch BATCH2026M, manufacturer Manufacturer_A
+         made 2026-03-11, expires 2028-03-11, owner Pharmacy_B [At pharmacy]
+Failed rules:
+  - [WARNING] TRACEABILITY_WARNING: Event #2805: Distributor -> Pharmacy skips or reverses a supply-chain stage
+Event history:
+  #2535  2026-04-19 23:03:11  REGISTER Manufacturer_A -> Manufacturer_A
+  #2621  2026-04-22 18:22:02  TRANSFER Manufacturer_A -> Distributor_A
+  #2805  2026-04-30 10:53:02  TRANSFER Distributor_A -> Pharmacy_B
+
+========================================================================
+Verification report - serial SN000169
+========================================================================
+Result : DATA_MISMATCH_ALERT
+Note   : Suspicious record: this is an indication that further investigation is needed, not proof of counterfeiting.
+Product: Sample Antimalarial C (DRG003), batch BATCH2026C, manufacturer Manufacturer_A
+         made 2026-01-20, expires 2029-01-20, owner Wholesaler_A [At wholesaler]
+Failed rules:
+  - [ALERT] DATA_MISMATCH_ALERT: Product record differs from batch master - expiry_date: product says '2029-01-20', batch master says '2028-01-20'
+Event history:
+  #1709  2026-03-19 15:47:53  REGISTER Manufacturer_A -> Manufacturer_A
+  #1970  2026-03-29 19:16:12  TRANSFER Manufacturer_A -> Distributor_B
+  #2086  2026-04-03 02:58:02  TRANSFER Distributor_B -> Wholesaler_A
+
+========================================================================
+Verification report - serial SN900001
+========================================================================
+Result : UNREGISTERED_PRODUCT_ALERT
+Note   : Suspicious record: this is an indication that further investigation is needed, not proof of counterfeiting.
+Failed rules:
+  - [ALERT] UNREGISTERED_PRODUCT_ALERT: Serial number SN900001 is not in the product register (1 event(s) refer to it)
+Event history:
+  #2458  2026-04-17 02:02:42  TRANSFER Distributor_B -> Wholesaler_A
